@@ -1,0 +1,23 @@
+{
+  "name": "my_irc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drykov-ttc/my_irc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drykov-ttc/my_irc/issues"
+  },
+  "homepage": "https://github.com/drykov-ttc/my_irc#readme",
+  "dependencies": {
+    "irc-server": "^0.0.4"
+  }
+}
